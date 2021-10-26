@@ -8,5 +8,3 @@ I have developed a model that can predict or detect a person wear face masks or 
 
 
 
-https://user-images.githubusercontent.com/83460431/138929820-50218510-90d4-4ced-8da2-00895ab9df09.mp4
-
