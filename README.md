@@ -4,3 +4,5 @@ I have developed a model that can predict or detect a person wear face masks or 
 
 
 ![image](https://user-images.githubusercontent.com/83460431/138928352-f6933a66-9138-43e2-baa6-1eaadf209250.png)
+![image](https://user-images.githubusercontent.com/83460431/138928581-05f52830-b7a2-4c8e-ab96-49d628f3dc97.png)
+
